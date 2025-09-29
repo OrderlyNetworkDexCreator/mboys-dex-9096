@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Leaderboard",
-  "VITE_CUSTOM_MENUS": "Mboys token, https://mboys.uz/swap",
+  "VITE_CUSTOM_MENUS": "MBoys Spot, https://mboys.uz/swap; MoonBoys, https://t.me/gismoxancrypto",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/mboys_sol",
   "VITE_DISCORD_URL": "",
