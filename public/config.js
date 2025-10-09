@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Spot & Perp — non-custodial, transparent, and powered by the MBoys community.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Markets,Leaderboard,Rewards",
+  "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Markets,Leaderboard",
   "VITE_CUSTOM_MENUS": "MBoys Spot, https://mboys.uz/swap; MoonBoys, https://t.me/gismoxancrypto",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/mboys_sol",
