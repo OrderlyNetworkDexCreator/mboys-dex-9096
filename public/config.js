@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/MBoysCoin",
   "VITE_SEO_SITE_NAME": "Mboys Dex",
   "VITE_SEO_SITE_DESCRIPTION": "Spot & Perp — non-custodial, transparent, and powered by the MBoys community.",
-  "VITE_SEO_SITE_URL": "https://dex.mboys.uz",
+  "VITE_SEO_SITE_URL": "https://mboysdex.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@MBoysCoin",
